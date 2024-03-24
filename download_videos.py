@@ -2,7 +2,6 @@ from pytube import YouTube
 from moviepy.editor import VideoFileClip
 import os
 
-
 def download_videos(urls, output_dir="infant_videos_preprocessed"):
 
     individual_output_dirs = ['sitting', 'sleeping', 'standing'] #creating individual directories for each categorie
@@ -68,7 +67,7 @@ if __name__ == "__main__":
         ("https://www.youtube.com/watch?v=jIzuy9fcf1k&ab_channel=rbtha", 2),
         ("https://www.youtube.com/watch?v=jIzuy9fcf1k&ab_channel=rbtha", 2),
         ("https://www.youtube.com/watch?v=jIzuy9fcf1k&ab_channel=rbtha", 2),
-        ("https://www.youtube.com/watch?v=jIzuy9fcf1k&ab_channel=rbtha", 2)
+        ("https://www.youtube.com/watch?v=jOIgR4o9Iu8&ab_channel=MamaNatural", 2)
 
     ]
 
@@ -84,7 +83,7 @@ if __name__ == "__main__":
           [(59, 69),
           (80,90),
           (103, 113),
-          (63, 73)]
+          (52, 62)]
     ]
 
     input_folders = ['sitting', 'sleeping', 'standing']
