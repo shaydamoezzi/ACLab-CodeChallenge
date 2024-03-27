@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="https://github.mit.edu/smoezzi/Infant-Pose-Prediction-and-Action-Recognition/blob/main/titlepage.png" width="700" height="470"/>
+</p>
+
+
+
 # Pose Prediction and Action Recognition on Infant Videos
 <img src="https://github.mit.edu/smoezzi/AC-Lab-Technical-Interview/blob/main/sitting_1_openpose.png" alt="screengrab2" width="400"/> <img src="https://github.mit.edu/smoezzi/AC-Lab-Technical-Interview/blob/main/sitting_1_screengrab.png" alt="screengrab1" width="400"/> 
 
